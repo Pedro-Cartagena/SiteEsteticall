@@ -20,7 +20,6 @@ export default function Header() {
     const navLinks = [
         { label: 'Início', href: '#inicio' },
         { label: 'Tratamentos', href: '#tratamentos' },
-        { label: 'Sobre Nós', href: '#sobre' },
         { label: 'Depoimentos', href: '#depoimentos' },
         { label: 'Contato', href: '#contato' },
     ];
