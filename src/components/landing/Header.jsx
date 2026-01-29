@@ -155,9 +155,9 @@ export default function Header() {
 
                                 {/* Contact Info */}
                                 <div className="p-6 bg-stone-100/50 space-y-4">
-                                    <a href="tel:+5500000000000" className="flex items-center gap-3 text-stone-600 hover:text-amber-700">
+                                    <a href="tel:+5512991896858" className="flex items-center gap-3 text-stone-600 hover:text-amber-700">
                                         <Phone className="w-5 h-5" />
-                                        <span>(00) 00000-0000</span>
+                                        <span>(12) 99189-6858</span>
                                     </a>
                                     <a href="#" className="flex items-center gap-3 text-stone-600 hover:text-amber-700">
                                         <Instagram className="w-5 h-5" />
