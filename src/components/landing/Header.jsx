@@ -21,6 +21,7 @@ export default function Header() {
     const navLinks = [
         { label: 'Início', href: '/#inicio' },
         { label: 'Tratamentos', href: '/#tratamentos' },
+        { label: 'Depoimentos', href: '#depoimentos' },
         { label: 'Contato', href: '/#contato' },
         { label: 'Seja um Franqueado', href: '/seja-um-franqueado' },
     ];
